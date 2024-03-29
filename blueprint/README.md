@@ -90,7 +90,7 @@ npm run blueprint
 
 ## Useful Resources
 - [Tailwind Website](https://tailwindcss.com/)
-- Link - [Easter Website]()
+- Link - [Easter Website](https://blessed-easter-holiday.vercel.app/)
 
 **More content to be added, feel free to add any engaging content**
 

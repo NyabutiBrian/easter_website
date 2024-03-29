@@ -20,8 +20,8 @@
 - This section shows the code templates.
 - The templates are in the folder blueprint.
 
-### New Year Website
-- Link - [Easter Website]()
+### Easter Website
+- Link - [Easter Website](https://blessed-easter-holiday.vercel.app/)
 
 ## Author
 
