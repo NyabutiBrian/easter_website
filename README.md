@@ -6,7 +6,7 @@
     - [Introduction](#introduction)
 - [Process + Development](#process-+-development)
     - [HTML + CSS + Tailwind Development](#html-+-css+-tailwind-development)
-    - [New Year Website](#new-year-website)
+    - [Easter Website](#easter-website)
 - [Author](#author)
 
 ## Overview
